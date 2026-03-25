@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Kind of website**
 
-- 💬 Ask me about **Html, Css**
+- 💬 Ask me about **Html, Css and tailwind Css**
 
 - 📫 How to reach me **mianriyan00@gmail.com**
 
